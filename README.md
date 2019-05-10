@@ -23,5 +23,7 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 
 ## Additional References
 
+* [Jepsen: Riak](https://aphyr.com/posts/285-jepsen-riak)
 * [Lasp: A Language for Distributed, Eventually Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-lasp-abstract.pdf)
 * [Rich Hickey: Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU)
+* [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
