@@ -23,6 +23,7 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 * [Distributed Transaction](https://en.wikipedia.org/wiki/Distributed_transaction)
 * [Event Sourcing](https://www.martinfowler.com/eaaDev/EventSourcing.html)
 * [Functions as a service](https://en.wikipedia.org/wiki/Function_as_a_service)
+* [Isolation (database systems)](https://en.wikipedia.org/wiki/Isolation_(database_systems))
 * [Linearizability](https://en.wikipedia.org/wiki/Linearizability)
 * [Locks and Mutexes](https://en.wikipedia.org/wiki/Lock_(computer_science))
 * [Paxos Consensus Algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
