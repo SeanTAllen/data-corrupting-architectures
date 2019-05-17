@@ -18,7 +18,7 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 * [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
 * [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
 * [CQRS](https://martinfowler.com/bliki/CQRS.html)
-* [CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
+* [Conflict-free replicated data type (CRDT)](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 * [Data Race](https://doc.rust-lang.org/nomicon/races.html)
 * [Distributed Transaction](https://en.wikipedia.org/wiki/Distributed_transaction)
 * [Event Sourcing](https://www.martinfowler.com/eaaDev/EventSourcing.html)
@@ -35,6 +35,7 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 
 ## Dive Deeper
 
+* [CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 * [Jepsen: Riak](https://aphyr.com/posts/285-jepsen-riak)
 * [Lasp: A Language for Distributed, Eventually Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-lasp-abstract.pdf)
 * [Pat Helland and Me: How to build stateful distributed applications that can scale almost infinitely](https://github.com/SeanTAllen/pat-helland-and-me)
