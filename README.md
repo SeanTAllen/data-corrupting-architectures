@@ -8,7 +8,7 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 
 ## Versions of this talk
 
-* ScaleConf Colombia 2019
+* ScaleConf Colombia 2019 - [Slides](https://speakerdeck.com/seantallen/data-corrupting-architectures-we-know-and-love)
 * VelocityConf San Jose 2019
 
 ## References
