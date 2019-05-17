@@ -14,16 +14,27 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 ## References
 
 * [Actor Model](https://en.wikipedia.org/wiki/Actor_model)
+* [Atomicity](https://en.wikipedia.org/wiki/Atomicity_(database_systems))
+* [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+* [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
+* [CQRS](https://martinfowler.com/bliki/CQRS.html)
 * [CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 * [Data Race](https://doc.rust-lang.org/nomicon/races.html)
+* [Distributed Transaction](https://en.wikipedia.org/wiki/Distributed_transaction)
 * [Event Sourcing](https://www.martinfowler.com/eaaDev/EventSourcing.html)
+* [Functions as a service](https://en.wikipedia.org/wiki/Function_as_a_service)
 * [Linearizability](https://en.wikipedia.org/wiki/Linearizability)
 * [Locks and Mutexes](https://en.wikipedia.org/wiki/Lock_(computer_science))
+* [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
+* [Service statelessness principle](https://en.wikipedia.org/wiki/Service_statelessness_principle)
+* [Shared-nothing Architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
 * [Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science))
+* [Transaction](https://en.wikipedia.org/wiki/Database_transaction)
 
-## Additional References
+## Dive Deeper
 
 * [Jepsen: Riak](https://aphyr.com/posts/285-jepsen-riak)
 * [Lasp: A Language for Distributed, Eventually Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-lasp-abstract.pdf)
+* [Pat Helland and Me: How to build stateful distributed applications that can scale almost infinitely](https://github.com/SeanTAllen/pat-helland-and-me)
 * [Rich Hickey: Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU)
 * [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
