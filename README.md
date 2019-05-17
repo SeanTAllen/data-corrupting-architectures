@@ -25,6 +25,8 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 * [Functions as a service](https://en.wikipedia.org/wiki/Function_as_a_service)
 * [Linearizability](https://en.wikipedia.org/wiki/Linearizability)
 * [Locks and Mutexes](https://en.wikipedia.org/wiki/Lock_(computer_science))
+* [Paxos Consensus Algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
+* [Raft Consensus Algorithm](https://raft.github.io/)
 * [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 * [Service statelessness principle](https://en.wikipedia.org/wiki/Service_statelessness_principle)
 * [Shared-nothing Architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
