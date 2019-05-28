@@ -36,6 +36,7 @@ Sean Allen reviews data race and corruption problems that exist on single-machin
 
 ## Dive Deeper
 
+* [ACIDRain: Concurrency-Related Attacks onDatabase-Backed Web Applications](http://www.bailis.org/papers/acidrain-sigmod2017.pdf)
 * [CRDT Primer](http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory/)
 * [Jepsen: Riak](https://aphyr.com/posts/285-jepsen-riak)
 * [Lasp: A Language for Distributed, Eventually Consistent Computations with CRDTs](https://www.info.ucl.ac.be/~pvr/papoc-2015-lasp-abstract.pdf)
